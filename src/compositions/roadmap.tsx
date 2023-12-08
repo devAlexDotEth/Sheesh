@@ -20,7 +20,7 @@ const Cards: FC = () => {
         <Card heading="Pre-Sale" description='Phase One'>
           <Body>Launch</Body>
           <Body>CoinMarketCap Listing</Body>
-          <Body>CoinGecko Listings</Body>
+          <Body>CoinGecko Listing</Body>
           <Body>1000+ Holders</Body>
           <Body>Trending on Twitter</Body>
         </Card>
